@@ -30,7 +30,7 @@
     "cordova-plugin-globalization": "1.0.8",
     "cordova-plugin-google-analytics": "1.8.3",
     "cordova-plugin-googleplus": "5.2.3",
-    "cordova-plugin-inappbrowser": "2.0.1",
+    "cordova-plugin-inappbrowser": "4.0.0",
     "cordova-plugin-market": "git+https://github.com/xmartlabs/cordova-plugin-market.git",
     "cordova-plugin-media": "4.0.0",
     "cordova-plugin-media-capture": "2.0.0",
